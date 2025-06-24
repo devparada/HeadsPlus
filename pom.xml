@@ -298,5 +298,10 @@
             <name>Lumine Releases</name>
             <url>https://mvn.lumine.io/repository/maven-public/</url>
         </repository>
+        <repository>
+            <id>glaremasters</id>
+            <name>glaremasters</name>
+            <url>https://repo.glaremasters.me/repository/public/</url>
+        </repository>
     </repositories>
 </project>
